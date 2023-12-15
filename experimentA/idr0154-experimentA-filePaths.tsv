@@ -1,18 +1,18 @@
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/851 2 RBP1 KO P1 T Sectioned head to tail 11.tif
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/872 2 RBP1 KO 15.5 T Sectioned tail to head 5.tif
-Dataset:name:RNAscope	/uod/idr/filesets/idr0154-queen-hdbr/1268_CS16_11_MXRA5-Change Scaling-04.tif
+Dataset:name:RNAscope	/uod/idr/filesets/idr0154-queen-hdbr/1268_CS16_11_MXRA5-Change Scaling-04.ome.tiff
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/851 2 RBP1 KO P1 T Sectioned head to tail 29.tif
 Dataset:name:Human_IF	/uod/idr/filesets/idr0154-queen-hdbr/CS16 CRABP2 1_c1+2.tif
-Dataset:name:RNAscope	/uod/idr/filesets/idr0154-queen-hdbr/1268_CS16_11_STX10_JT.tiff
-Dataset:name:RNAscope	/uod/idr/filesets/idr0154-queen-hdbr/1268_CS16_12_PDLIM-Change Scaling-06.tif
-Dataset:name:RNAscope	/uod/idr/filesets/idr0154-queen-hdbr/1268_CS16_12_HES4-Change Scaling-05.tif
-Dataset:name:RNAscope	/uod/idr/filesets/idr0154-queen-hdbr/1268_CS16_11_ID4-Change Scaling-02 2.tif
+Dataset:name:RNAscope	/uod/idr/filesets/idr0154-queen-hdbr/1268_CS16_11_STX10_JT.ome.tiff
+Dataset:name:RNAscope	/uod/idr/filesets/idr0154-queen-hdbr/1268_CS16_12_PDLIM-Change Scaling-06.ome.tiff
+Dataset:name:RNAscope	/uod/idr/filesets/idr0154-queen-hdbr/1268_CS16_12_HES4-Change Scaling-05.ome.tiff
+Dataset:name:RNAscope	/uod/idr/filesets/idr0154-queen-hdbr/1268_CS16_11_ID4-Change Scaling-02 2.ome.tiff
 Dataset:name:Mouse_IF	/uod/idr/filesets/idr0154-queen-hdbr/CD1_E11.5T_CRABP2(Rb_568)_02_c1+2 Hannah set 2.tif
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/851 2 RBP1 KO P1 T Sectioned head to tail 26.tif
 Dataset:name:Mouse_IF	/uod/idr/filesets/idr0154-queen-hdbr/CD1_E12.5T_RBP1(Rb_568)_33_c1+2.tif
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/872 2 RBP1 KO 15.5 T Sectioned tail to head 28.tif
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/872 4 RBP1 KO 15.5 T Sectioned tail to head 18.tif
-Dataset:name:RNAscope	/uod/idr/filesets/idr0154-queen-hdbr/CS19_Hotair_Section3_apotomestitched.tiff
+Dataset:name:RNAscope	/uod/idr/filesets/idr0154-queen-hdbr/CS19_Hotair_Section3_apotomestitched.ome.tiff
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/P1 WT T 1 Sectioned rear to head 33.tif
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/872 2 RBP1 KO 15.5 T Sectioned tail to head 7.tif
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/P1 WT T 1 Sectioned head to rear 41.tif
@@ -21,7 +21,7 @@ Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/872 2 RBP1 KO 15.5 T 
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/851 2 RBP1 KO P1 T Sectioned head to tail 10.tif
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/E15.5 WT_2.tif
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/851 2 RBP1 KO P1 T Sectioned head to tail 27.tif
-Dataset:name:Human_HE	/uod/idr/filesets/idr0154-queen-hdbr/CS19_Well31_Brightfield_Seq0004.jpg
+Dataset:name:Human_HE	/uod/idr/filesets/idr0154-queen-hdbr/CS19_Well31_Brightfield_Seq0004.ome.tiff
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/P1 WT T 1 Sectioned head to rear 39.tif
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/872 2 RBP1 KO 15.5 T Sectioned tail to head 10 copy.tif
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/872 4 RBP1 KO 15.5 T Sectioned tail to head 6.tif
@@ -33,8 +33,8 @@ Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/872 RBP1 KO 15.5 T Se
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/872 3 RBP1 KO 15.5 T Sectioned tail to head 24.tif
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/872 3 RBP1 KO 15.5 T Sectioned tail to head 18.tif
 Dataset:name:Mouse_IF	/uod/idr/filesets/idr0154-queen-hdbr/CD1_E13.5T_RBP1(Rb_568)_04_c1+2.tif
-Dataset:name:Human_HE	/uod/idr/filesets/idr0154-queen-hdbr/CS16_Well31_brightfield_resized.jpg
-Dataset:name:RNAscope	/uod/idr/filesets/idr0154-queen-hdbr/CS16_1962_EIF2_S3_10X.tiff
+Dataset:name:Human_HE	/uod/idr/filesets/idr0154-queen-hdbr/CS16_Well31_brightfield_resized.ome.tiff
+Dataset:name:RNAscope	/uod/idr/filesets/idr0154-queen-hdbr/CS16_1962_EIF2_S3_10X.ome.tiff
 Dataset:name:Mouse_IF	/uod/idr/filesets/idr0154-queen-hdbr/CD1_E11.5T_RBP1(Rb_568)_03_c1+2 Hannah set 2.tif
 Dataset:name:Human_IF	/uod/idr/filesets/idr0154-queen-hdbr/CS16 Galectin 1_2_c1+2.tif
 Dataset:name:Mouse_HE	/uod/idr/filesets/idr0154-queen-hdbr/E15.5 WT_3.tif
