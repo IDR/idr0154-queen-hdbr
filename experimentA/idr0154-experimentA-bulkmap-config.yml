@@ -46,6 +46,9 @@ columns:
   - name: Expression Pattern Description
     include: true
 
+  - name: Channels
+    include: true
+
   ######################################################################
   # mapr groups
   ######################################################################
