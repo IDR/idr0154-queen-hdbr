@@ -1,0 +1,30 @@
+---
+channels:
+    1:
+        active: true
+        color: FF0000
+        end: 254.0
+        label: RBP1
+        max: 254.0
+        min: 0.0
+        start: 0.0
+    2:
+        active: false
+        color: FFFFFF
+        end: 255.0
+        label: 'empty'
+        max: 0.0
+        min: 0.0
+        start: 0.0
+    3:
+        active: true
+        color: 0000FF
+        end: 254.0
+        label: 'DAPI'
+        max: 254.0
+        min: 0.0
+        start: 0.0
+greyscale: false
+t: 1
+version: 2
+z: 1
