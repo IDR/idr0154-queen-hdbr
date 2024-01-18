@@ -9,10 +9,10 @@ channels:
         min: 0.0
         start: 0.0
     2:
-        active: false
-        color: FFFFFF
+        active: true
+        color: 00FF00
         end: 152.0
-        label: empty
+        label: DAPI
         max: 152.0
         min: 0.0
         start: 0.0
@@ -28,7 +28,7 @@ channels:
         active: false
         color: '000000'
         end: 255.0
-        label: Alpha
+        label: empty
         max: 255.0
         min: 255.0
         start: 0.0
