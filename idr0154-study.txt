@@ -1,0 +1,102 @@
+# FILL IN AS MUCH INFORMATION AS YOU CAN.  HINTS HAVE BEEN PUT IN SOME FIELDS AFTER THE HASH # SYMBOL. REPLACE THE HINT WITH TEXT WHERE APPROPRIATE.	
+# STUDY DESCRIPTION SECTION					
+# Section with generic information about the study including title, description, publication details (if applicable) and contact details				
+					
+Comment[IDR Study Accession]	idr0154				
+Study Title	Novel genes in human embryonic arterial valves				
+Study Type	histology	RNAscope			
+Study Type Term Source REF		EFO				
+Study Type Term Accession		EFO_0010965					
+Study Description	Validation of novel genes identified by Spatial Transcriptomics in human embryonic arterial valves at CS16 and CS19.				
+Study Key Words	Human embryo	heart valves	spatial transcriptomics				
+Study Organism	Homo Sapiens	Mus Musculus			
+Study Organism Term Source REF	NCBITaxon				
+Study Organism Term Accession	9606	10090					
+Study Experiments Number	1				
+Study External URL	https://hdbratlas.org/heart-st.html	
+Study BioImage Archive Accession			
+Study Public Release Date				
+					
+# Study Publication					
+Study PubMed ID	38011284					
+Study Publication Title	Spatial transcriptomics reveals novel genes during the remodelling of the embryonic human arterial valves				
+Study Author List	Queen R, Crosier M, Eley L, Kerwin J, Turner JE, Yu J, Alqahtani A, Dhanaseelan T, Overman L, Soetjoadi H, Baldock R, Coxhead J, Boczonadi V, Laude A, Cockell SJ, Kane MA, Lisgo S, Henderson DJ				
+Study PMC ID	PMC10703419					
+Study DOI	https://doi.org/10.1371/journal.pgen.1010777					
+					
+# Study Contacts					
+Study Person Last Name	Kerwin				
+Study Person First Name	Janet				
+Study Person Email	janet.kerwin@newcastle.ac.uk				
+Study Person Address	HDBR, Newcastle University, International Centre for Life, Newcastle, NE1 4EP				
+Study Person ORCID	 				
+Study Person Roles	submitter				
+					
+# Study License and Data DOI					
+Study License	CC BY 4.0 				
+Study License URL	https://creativecommons.org/licenses/by/4.0/				
+Study Copyright	Queen et al				
+Study Data Publisher	University of Dundee			
+Study Data DOI					
+					
+Term Source Name	NCBITaxon	EFO	CMPO	FBbi	
+Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/	
+					
+					
+# EXPERIMENT SECTION					
+# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment				
+					
+Experiment Number	1
+Comment[IDR Experiment Name]	idr0154-queen-hdbr/experimentA	
+Experiment Sample Type	tissue			
+Experiment Description	RNAscope and immunofluorescence data for novel genes identified by spatial transcriptomic analysis of human embryonic arterial valves at CS16 and CS19. H&E sections from mouse wild-type and RBP1 knockout.
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT):	Total Tb: 	
+Experiment Example Images	RBP1 RNAScope CS20_13737_Overview4.jpg				
+Experiment Imaging Method	bright-field microscopy	fluorescence microscopy
+Experiment Imaging Method Term Source REF	Fbbi	Fbbi		
+Experiment Imaging Method Term Accession	Fbbi_00000243	FBbi_00000246
+Experiment Organism	
+Experiment Organism Term Source REF	NCBITaxon				
+Experiment Organism Term Accession					
+Experiment Comments	Spatial transcriptomics, Immunofluorescence, RNAscope				
+					
+# assay files					
+Experiment Assay File	idr0154-experimentA-annotation.csv				
+Experiment Assay File Format	tab-delimited text				
+Assay Experimental Conditions					
+Assay Experimental Conditions Term Source REF					
+Assay Experimental Conditions Term Accession					
+Quality Control Description				
+					
+# Protocols					
+Protocol Name	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol	
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol	
+Protocol Type Term Source REF	EFO	EFO			
+Protocol Type Term Accession	EFO_0003789	EFO_0003969			
+Protocol Description		
+					
+# Phenotypes					
+Phenotype Name					
+Phenotype Description					
+Phenotype Score Type					
+Phenotype Term Source REF	CMPO				
+Phenotype Term Name					
+Phenotype Term Accession			 		
+					
+					
+# Feature Level Data Files (give individual file details unless there is one file per well)					
+Feature Level Data File Name					
+Feature Level Data File Format					
+Feature Level Data File Description				
+Feature Level Data Column Name				
+Feature Level Data Column Description					
+					
+#  Processed Data Files 					
+Processed Data File Name					
+Processed Data File Format	tab-delimited text				
+Processed Data File Description					
+Processed Data Column Name					
+Processed Data Column Type		
+Processed Data Column Annotation Level					
+Processed Data Column Description					
+Processed Data Column Link To Assay File					
