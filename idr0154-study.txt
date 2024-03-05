@@ -9,7 +9,7 @@ Study Type Term Source REF		EFO
 Study Type Term Accession		EFO_0010965					
 Study Description	Validation of novel genes identified by Spatial Transcriptomics in human embryonic arterial valves at CS16 and CS19.				
 Study Key Words	Human embryo	heart valves	spatial transcriptomics				
-Study Organism	Homo Sapiens	Mus Musculus			
+Study Organism	Homo sapiens	Mus musculus			
 Study Organism Term Source REF	NCBITaxon				
 Study Organism Term Accession	9606	10090					
 Study Experiments Number	1				
